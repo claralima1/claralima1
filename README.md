@@ -1,5 +1,5 @@
 # Hello👋
-## My name is Clara Lima, I am information Technology student at IFRN.💻📚 
+
 ### It's a pleasure to welcome you to my profile!🤗
 
 
