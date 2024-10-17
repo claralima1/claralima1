@@ -15,7 +15,7 @@
  
   <a href="https://www.instagram.com/_tinguer_" alt="Instagram" target="_blank"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_tinguer"> </a> <br> <a href="https://www.linkedin.com/in/clara-lima-2487b8217/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <br>
-<img align="center" height="400" width="600" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg">
+<img align="center" height="500" width="700" src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg">
  
 
  
