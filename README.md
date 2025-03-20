@@ -24,9 +24,6 @@ Recentemente, concluí um curso de capacitação em **sistemas embarcados**, ond
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Embedded Systems](https://img.shields.io/badge/-Sistemas%20Embarcados-0078D7?logo=embedded-systems&logoColor=white)
 
-## Projetos Destacados
-
-
 ## Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=claralima1&show_icons=true&theme=dark)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=claralima1&layout=compact&theme=dark)
