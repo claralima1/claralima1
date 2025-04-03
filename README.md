@@ -1,7 +1,7 @@
 # Olá, eu sou Clara Lima! 👋
 
 ## Sobre mim
-Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em formação, e apaixonada por tecnologia com foco em **sistemas embarcados**, **IoT (Internet das Coisas)** e **desenvolvimento web**. Minha jornada na programação começou em **2019**, quando ingressei no curso técnico em Informática no **IFRN (Instituto Federal do Rio Grande do Norte)**. Durante esse período, tive a oportunidade de participar de um **projeto de extensão**, onde pude aplicar meus conhecimentos em um contexto prático e me identificar profundamente com a área de programação. Desde então, tenho me dedicado a aprender e aprimorar minhas habilidades, buscando constantemente novos desafios e oportunidades para crescer profissionalmente.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, atualmente em formação, e apaixonada por tecnologia com foco em **desenvolvimento web**. Minha jornada na programação começou em **2019**, quando ingressei no curso técnico em Informática no **IFRN (Instituto Federal do Rio Grande do Norte)**. Durante esse período, tive a oportunidade de participar de um **projeto de extensão**, onde pude aplicar meus conhecimentos em um contexto prático e me identificar profundamente com a área de programação. Desde então, tenho me dedicado a aprender e aprimorar minhas habilidades, buscando constantemente novos desafios e oportunidades para crescer profissionalmente.
 
 Recentemente, concluí um curso de capacitação em **sistemas embarcados**, onde explorei o desenvolvimento de soluções utilizando **Raspberry Pi Pico W** e a linguagem **C**. Essa experiência reforçou minha paixão por tecnologia e minha vontade de contribuir para projetos inovadores.
 
