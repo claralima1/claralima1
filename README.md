@@ -31,7 +31,3 @@ Recentemente, concluí um curso de capacitação em **sistemas embarcados**, ond
 ## Contato
 - 📧 **Email**: [claralima601@gmail.com](mailto:claralima601@gmail.com)
 - 💼 **LinkedIn**: [Clara Lima](https://www.linkedin.com/in/clara-lima-2487b8217/)
-
-
-## Vamos colaborar!
-Estou em constante aprendizado e sempre aberta a novas oportunidades, colaborações em projetos open source ou discussões sobre tecnologia. Se você tem uma ideia interessante ou quer trocar conhecimentos, sinta-se à vontade para entrar em contato! Vamos construir algo incrível juntos! 😊
