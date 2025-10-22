@@ -8,11 +8,6 @@ Durante essa formação, participei de um **projeto de extensão** onde pude apl
 
 Recentemente, finalizei um curso de capacitação em **sistemas embarcados**, onde trabalhei com o **Raspberry Pi Pico W** e a linguagem **C**. Essa experiência ampliou minha visão sobre a tecnologia e reforçou ainda mais meu desejo de contribuir com soluções inovadoras.
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/w1esther/w1esther/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
