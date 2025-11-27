@@ -55,10 +55,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/claralima1">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=claralima1&theme=radical&hide_border=true" alt="claralima1" />
-  </a>
-</div>
+
 
 
 
