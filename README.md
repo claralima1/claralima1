@@ -35,8 +35,11 @@
   </a>
 </div>
 
+## **Histórico de Contribuições**
 
-
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=claralima1&theme=dark&hide_border=true&area=true&bg_color=0D1117&custom_title=Atividade%20de%20Contribuições" />
+</div>
 
 
 
