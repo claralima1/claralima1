@@ -34,6 +34,7 @@
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=claralima1&layout=compact&langs_count=8&theme=radical&hide_border=true&locale=pt-br"/>
   </a>
 </div>
+
 ## **Histórico de Contribuições**
 
 <div align="center">
