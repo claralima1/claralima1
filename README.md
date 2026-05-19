@@ -1,6 +1,5 @@
 
 <div align="center">
-<h1> Desenvolvedora Web 💻 | UI/UX Designer 🎨</h1>
 </div>  
 
 ## Sobre mim
